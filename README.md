@@ -1,2 +1,3 @@
-# AI_classProject_MovieRecommendation
-## Finding movie recommendation through artificial intelligence and machine learning
+# AI_class_ENSE496AC
+## Project - Finding movie recommendation through artificial intelligence and machine learning
+## Labs
